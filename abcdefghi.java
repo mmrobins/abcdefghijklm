@@ -1,6 +1,6 @@
 package test;
 
-public class paulaBean {
+class paulaBean {
 
     private String paula = "Brillant";
 
@@ -8,3 +8,14 @@ public class paulaBean {
         return paula;
     }
 }
+
+class matt {
+
+    private String matt = "Awesome";
+
+    public String getMatt() {
+        return matt;
+    }
+}
+
+
